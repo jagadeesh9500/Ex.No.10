@@ -72,7 +72,7 @@ A fantasy story about the last fire knight guarding a dying volcano temple.
 The objective is the same:
 Start with a simple prompt → refine the story using advanced prompt patterns → create multiple versions → produce a final engineered narrative.
 
-1. First Draft: Simple Prompt (Establishing Baseline)
+## 1. First Draft: Simple Prompt (Establishing Baseline)
 Technique Used: Basic Query
 Prompt:
 
@@ -92,7 +92,7 @@ He hesitated. The temple’s teachings warned: Blue flame belongs to the Unseen.
 Yet loneliness was heavier than fear.
 Rhoan stretched out his hand.
 
-2. Refined Content: Query Decomposition & Menu Actions
+## 2. Refined Content: Query Decomposition & Menu Actions
 Technique 1: Query Decomposition
 
 Break the story into clean narrative parts:
@@ -132,7 +132,7 @@ The message ended with a final chilling command:
 
 Lyra exhaled, realizing she had just broken the temple’s oldest law.
 
-3. Multiple Versions: Semantic Filter & Tail Generation
+## 3. Multiple Versions: Semantic Filter & Tail Generation
 
 Now we create alternate versions using two different techniques.
 
@@ -179,7 +179,7 @@ The Seeker’s final words echoed:
 
 Lyra realized she had been thrust into a decision that could ignite or extinguish an entire civilization.
 
-4. Final Version: Answer Engineering & Conclusion
+## 4. Final Version: Answer Engineering & Conclusion
 Technique: Answer Engineering
 
 Mandate a structure + introduce a twist.
@@ -330,9 +330,7 @@ Output: Version B (Extended Future Outlook)
 The Future: Solutions and Innovation
 The trajectory of solar growth depends heavily on overcoming existing technical hurdles. Promising innovations include the rapid development of perovskite solar cells, which offer higher efficiencies and lower manufacturing costs than traditional silicon, potentially reducing land footprint needs.
 
-Simultaneously, computational improvements, specifically advanced weather modeling paired with AI, are being deployed to predict power output fluctuations hours or days in advance. This predictive capability is crucial for utilities to manage intermittency, enabling smoother grid integration without massive reliance on fossil fuel backups.
-
-<img width="3000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2829562e-d76b-4603-bb76-0b643e4e5c26" />
+Simultaneously, computational improvements, specifically advanced weather modeling paired with AI, are being deployed to predict power output fluctuations hours or days in advance. This predictive capability is crucial for utilities to manage intermittency, enabling smoother grid integration without massive reliance on fossil fuel backu
 
 
 ## Educational Report: Solar Energy
