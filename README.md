@@ -1,4 +1,4 @@
-![ChatGPT Image Nov 23, 2025, 06_52_51 PM](https://github.com/user-attachments/assets/1a65d369-48a7-423f-8f61-945c35357494)# 📘 Ex.No.10 – Content Creation Using Prompt Patterns
+# 📘 Ex.No.10 – Content Creation Using Prompt Patterns
 
 ## 🔹 Title
 **Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns**
@@ -151,7 +151,7 @@ Humans still control and monitor decisions in complex scenarios (human-in-the-lo
 ---
 
 ## Benefits of Human–AI Collaboration
-![Uploading ll.png…]()
+![ChatGPT Image Nov 23, 2025, 06_52_51 PM](https://github.com/user-attachments/assets/1a65d369-48a7-423f-8f61-945c35357494)
 
 
 
